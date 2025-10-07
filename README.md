@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -507,7 +506,7 @@
         <div class="table-container">
             <table>
                 <thead>
-                    <tr>
+                    <tr style =" color  #073763">
                         <th>Característica</th>
                         <th>Fedora</th>
                         <th>Ubuntu</th>
