@@ -235,6 +235,9 @@
             margin: 25px 0;
             box-shadow: 0 4px 15px rgba(7, 55, 99, 0.08);
         }
+        tr {
+      color: #073763;
+        }
 
         .info-box ul {
             margin: 10px 0 10px 20px;
@@ -506,7 +509,7 @@
         <div class="table-container">
             <table>
                 <thead>
-                    <tr style =" color  #073763">
+                    <tr>
                         <th>Característica</th>
                         <th>Fedora</th>
                         <th>Ubuntu</th>
